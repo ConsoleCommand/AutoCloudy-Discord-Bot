@@ -1,0 +1,19 @@
+{
+  "name": "TheCloudsBot",
+  "version": "1.0.0",
+  "description": "The Sky Özel Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Console & Pref",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.5.1",
+    "common-tags": "^1.8.0",
+    "util": "^0.12.1",
+    "fs": "^0.0.2",
+    "async": "^3.1.0",
+    "express": "^4.16.4"
+  }
+}
